@@ -6,6 +6,14 @@
   <strong>A starter for creating a Gatsby Theme with TypeScript.</strong>
 </p>
 
+## What's in the box?
+
+- [x] TypeScript
+- [x] Yarn workspaces
+- [x] Minimal Gatsby Theme
+- [x] Demo site
+- [x] ESLint + Prettier + Husky
+
 ## Quick Start
 
 ```sh
